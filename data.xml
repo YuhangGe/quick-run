@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<commands>
+		<cmd name='ultraISO' path='F:\Program Files\UltraISO\UltraISO.exe' param="" needConfirm="false"/>
+		<cmd name='ultraedit' path='F:\Program Files\UltraEdit\Uedit32.exe' param="" needConfirm="false"/>
+		<cmd name='cmd' path='cmd.exe'/>
+		<cmd name='powershell' path='powershell.exe'/>
+		<cmd name="chrome" path="C:\Users\Abraham\AppData\Local\Google\Chrome\Application\chrome.exe" param="" needConfirm="false"/><cmd name="dict" path="F:\Program Files\Kingsoft\PowerWord_Oxford\XDict.exe" param="" needConfirm="false"/><cmd name="dropbox" path="C:\Users\Abraham\AppData\Roaming\Dropbox\bin\Dropbox.exe" param="/home" needConfirm="false"/><cmd name="fetion" path="F:\Program Files\China Mobile\Fetion\Fetion.exe" param="" needConfirm="false"/><cmd name="fireworks" path="F:\Program Files\Adobe\Adobe Fireworks CS4\Fireworks.exe" param="" needConfirm="false"/><cmd name="firefox" path="F:\Program Files\Mozilla Firefox\firefox.exe" param="" needConfirm="false"/><cmd name="flashftp" path="F:\Program Files\FlashFXP v3.7.9.1345 Beta.FFF\flashfxp.exe" param="" needConfirm="false"/><cmd name="goldwave" path="F:\Program Files\GoldWave\GoldWave.exe" param="" needConfirm="false"/><cmd name="maxthon3" path="C:\Program Files\Maxthon3\Bin\Maxthon.exe" param="" needConfirm="false"/><cmd name="powerpoint" path="F:\Program Files\Microsoft Office\Office12\POWERPNT.exe" param="" needConfirm="false"/><cmd name="qq" path="F:\Program Files\Tencent\QQ\Bin\QQ.exe" param="" needConfirm="false"/><cmd name="ttplayer" path="F:\Program Files\TTPlayer\TTPlayer.exe" param="" needConfirm="false"/><cmd name="xntalk" path="F:\Program Files\RenRen\xntalk.exe" param="" needConfirm="false"/><cmd name="aptana" path="E:\Develop\Aptana_Studio_Setup_Win_2.0.3\Aptana Studio 2.0\AptanaStudio.exe" param="" needConfirm="false"/><cmd name="autoruns" path="F:\Program Files\Autoruns-v9.56H\autoruns.exe" param="" needConfirm="false"/><cmd name="calc" path="calc" param="" needConfirm=""/><cmd name="excel" path="F:\Program Files\Microsoft Office\Office12\Excel.exe" param="" needConfirm="false"/><cmd name="foobar2000" path="F:\Program Files\Foobar2000\foobar2000.exe" param="" needConfirm=""/><cmd name="gadgetpath" path="C:\Users\Abraham\AppData\Local\Microsoft\Windows Sidebar\Gadgets" param="" needConfirm=""/><cmd name="google" path="www.google.com" param="" needConfirm="false"/><cmd name="mycomputer" path="::{20D04FE0-3AEA-1069-A2D8-08002B30309D}" param="" needConfirm=""/><cmd name="notepad" path="notepad" param="" needConfirm=""/><cmd name="r-tool" path="F:\Program Files\R\R-2.10.1\bin\Rgui.exe" param="" needConfirm="false"/><cmd name="shutdown" path="shutdown" param="/s /t 1" needConfirm="true"/><cmd name="word" path="F:\Program Files\Microsoft Office\Office12\winword.exe" param="" needConfirm="false"/><cmd name="xiaonei" path="www.xiaonei.com" param="" needConfirm=""/>
+	</commands>
+	<reminders>
+		<!--
+			提醒 msg信息 date日期 days提前多少天开始提醒，默认3天，最多20天
+			remind是提醒，默认为“不要忘记了” nongli是否是农历，默认为false
+			农历不考虑闰月
+		-->
+		<rem msg="妈妈的生日" date="1-1" days="5" remind="记得打个电话" />
+		<rem msg="外公的生日" date="11-29" nongli="true" days="5" remind="晚上八九点打个电话"/>
+		<rem msg="爸爸的生日" date="3-27" nongli="true" days="5" remind="给他打个电话" />
+		<rem msg="外婆的生日" date="6-6" nongli="true" days="5" remind="晚上八九点打个电话" />
+		<rem msg="奶奶的生日" date="1-27" nongli="true" days="5" remind="记得打个电话" />
+	</reminders>
+</data>

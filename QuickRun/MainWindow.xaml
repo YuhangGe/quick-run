@@ -1,0 +1,13 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="379" Width="415" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}" WindowStartupLocation="Manual" Topmost="True" ShowInTaskbar="False" Left="500" Top="180">
+    <Grid Name="MainGrid"  >
+
+        <Canvas Height="246" HorizontalAlignment="Left" Name="MainCanvas" VerticalAlignment="Top" Width="393" Margin="0,94,0,0">
+
+        </Canvas>
+        <TextBlock Name="Title" Height="52" HorizontalAlignment="Left" Text="QuickRun" VerticalAlignment="Top" FontSize="36" Width="171" Margin="64,0,0,0" />
+        <TextBlock Name="TxtInput" Height="43"  HorizontalAlignment="Left" Margin="0,49,0,0"   VerticalAlignment="Top" Width="393" FontSize="32" Padding="10,0,0,0" />
+    </Grid>
+</Window>
